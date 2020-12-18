@@ -1,4 +1,4 @@
-Weather App made with Vue.js
+## Weather App made with Vue.js
 
 ## Project setup
 ```
